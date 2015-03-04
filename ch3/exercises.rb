@@ -30,7 +30,7 @@ end
 puts multiply(50, 2)
 
 puts ""
-puts "Exercise 4 - What will the following code print to screen?"
+puts "Exercise 4/5 - What will the following code print to screen?"
 #Still returns nil
 def scream (words)
   words = words + "!!!!"
@@ -38,3 +38,4 @@ def scream (words)
 end
 
 scream("Yippee")
+puts "Still returns nil"
