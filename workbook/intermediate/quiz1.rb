@@ -1,3 +1,5 @@
+#Intermediate Quiz 1
+
 p "Exercise 1"
 10.times { |index| puts "The Flinstones Rock!".rjust(21 + index) }
 
